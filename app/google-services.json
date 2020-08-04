@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "545002045093",
+    "firebase_url": "https://proyek-ppm.firebaseio.com",
+    "project_id": "proyek-ppm",
+    "storage_bucket": "proyek-ppm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545002045093:android:fbea2513386dc54a",
+        "android_client_info": {
+          "package_name": "com.example.user.korokoro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545002045093-m17r766d5r68o759to1j3ff1dc98pvqn.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "545002045093-m17r766d5r68o759to1j3ff1dc98pvqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwaxVu6rabS_CnZxnEnUfh-w0t__J4-DA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
