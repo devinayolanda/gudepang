@@ -9,6 +9,6 @@ Click "Start" to play :
 - Highscore will be saved on firebase database.
 
 Click "Scan" to get a new Gudetama character :
-- Scan random barcode that contains integer only.
+- Scan random QR Code that contains integer only.
 - Gudetama character will be based on barcode value result.
 - The Gudetamas will be saved on firebase database.
