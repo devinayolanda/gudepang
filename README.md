@@ -10,5 +10,5 @@ Click "Start" to play :
 
 Click "Scan" to get a new Gudetama character :
 - Scan random QR Code that contains integer only.
-- Gudetama character will be based on barcode value result.
+- Gudetama character will be based on QR Code value result.
 - The Gudetamas will be saved on firebase database.
